@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap'); /* Regra @: Importa a fonte Quicksand do Google Fonts para ser usada na página. */
+@import url('https://fonts.googleapis.com/css2?family=Science+Gothic:wght@100..900&display=swap');
 
 * { /* Seletor universal: Aplica os estilos a todos os elementos da página. */
     box-sizing: border-box; /* Propriedade: Garante que padding e border não aumentem o tamanho total do elemento. */
@@ -6,16 +6,16 @@
 
 :root { /* Pseudo-classe: Define variáveis CSS globais que podem ser reutilizadas em todo o documento. */
     --primary-color: #8ab4f8; /* Variável: Define a cor primária (azul claro). */
-    --secondary-color: #e8eaed; /* Variável: Define a cor secundária (cinza claro). */
+    --secondary-color: #ce731f; /* Variável: Define a cor secundária (cinza claro). */
     --tertiary-color: #9aa0a6; /* Variável: Define a cor terciária (cinza médio). */
-    --bg-color: #202124; /* Variável: Define a cor de fundo (cinza escuro). */
+    --bg-color: #302049; /* Variável: Define a cor de fundo (cinza escuro). */
 }
 
 body { /* Seletor de tipo: Estiliza o elemento <body>. */
     margin: 0; /* Propriedade: Remove a margem padrão do body. */
     background: var(--bg-color); /* Propriedade: Define a cor de fundo usando a variável --bg-color. */
     color: var(--secondary-color); /* Propriedade: Define a cor do texto padrão usando a variável --secondary-color. */
-    font-family: "Quicksand", sans-serif; /* Propriedade: Define a família da fonte para Quicksand, com sans-serif como alternativa. */
+    font-family: "Science Gothic", sans-serif; /* Propriedade: Define a família da fonte para Science Gothic, com sans-serif como alternativa. */
 }
 
 header { /* Seletor de tipo: Estiliza o elemento <header>. */
