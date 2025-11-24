@@ -76,5 +76,309 @@
         "descricao": "Kotlin é uma linguagem de programação moderna e estaticamente tipada, popular para desenvolvimento Android.",
         "ano": 2011,
         "link": "https://kotlinlang.org/docs/home.html"
-    }
+    },
+    {
+    "nome": "Go (Golang)",
+    "descricao": "Linguagem de programação compilada, tipada estaticamente, conhecida por sua eficiência em concorrência e construção de sistemas de rede.",
+    "ano": 2009,
+    "link": "https://go.dev/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      "concorrência",
+      "sistemas"
+    ]
+  },
+  {
+    "nome": "Rust",
+    "descricao": "Linguagem de programação de sistemas focada em segurança, desempenho e controle de memória, sem depender de um coletor de lixo.",
+    "ano": 2010,
+    "link": "https://www.rust-lang.org/",
+    "tags": [
+      "linguagem de programação",
+      "sistemas",
+      "performance",
+      "backend"
+    ]
+  },
+  {
+    "nome": "Kotlin",
+    "descricao": "Linguagem de programação moderna e pragmática que roda na Java Virtual Machine (JVM), sendo a linguagem preferencial para desenvolvimento Android.",
+    "ano": 2011,
+    "link": "https://kotlinlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "mobile",
+      "backend",
+      "jvm"
+    ]
+  },
+  {
+    "nome": "TypeScript",
+    "descricao": "Um superset tipado de JavaScript que compila para JavaScript puro, adicionando recursos de tipagem estática e interfaces.",
+    "ano": 2012,
+    "link": "https://www.typescriptlang.org/",
+    "tags": [
+      "linguagem de programação",
+      "frontend",
+      "tipagem estática",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "PostgreSQL",
+    "descricao": "Sistema de gerenciamento de banco de dados objeto-relacional de código aberto, conhecido por sua robustez e conformidade com padrões SQL.",
+    "ano": 1996,
+    "link": "https://www.postgresql.org/",
+    "tags": [
+      "banco de dados",
+      "sql",
+      "relacional",
+      "armazenamento"
+    ]
+  },
+  {
+    "nome": "MongoDB",
+    "descricao": "Banco de dados NoSQL orientado a documentos que oferece alta escalabilidade e flexibilidade na modelagem de dados.",
+    "ano": 2009,
+    "link": "https://www.mongodb.com/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "documento",
+      "escalabilidade"
+    ]
+  },
+  {
+    "nome": "Docker",
+    "descricao": "Plataforma que permite o empacotamento, distribuição e execução de aplicações em ambientes isolados e portáteis chamados contêineres.",
+    "ano": 2013,
+    "link": "https://www.docker.com/",
+    "tags": [
+      "devops",
+      "containerização",
+      "ferramenta",
+      "virtualização"
+    ]
+  },
+  {
+    "nome": "Kubernetes (K8s)",
+    "descricao": "Sistema de orquestração de contêineres de código aberto que automatiza o deployment, o scaling e o gerenciamento de aplicações.",
+    "ano": 2014,
+    "link": "https://kubernetes.io/",
+    "tags": [
+      "devops",
+      "orquestração",
+      "containerização",
+      "cloud"
+    ]
+  },
+  {
+    "nome": "Terraform",
+    "descricao": "Ferramenta de Infraestrutura como Código (IaC) que permite a criação, alteração e versionamento de recursos de infraestrutura de forma declarativa.",
+    "ano": 2014,
+    "link": "https://www.terraform.io/",
+    "tags": [
+      "devops",
+      "iac",
+      "cloud",
+      "automação"
+    ]
+  },
+  {
+    "nome": "Svelte",
+    "descricao": "Um compilador que converte componentes declarativos em código JavaScript altamente eficiente em tempo de construção, em vez de depender de um framework em tempo de execução.",
+    "ano": 2016,
+    "link": "https://svelte.dev/",
+    "tags": [
+      "framework",
+      "frontend",
+      "compilador",
+      "web development"
+    ]
+  },
+  {
+    "nome": "Next.js",
+    "descricao": "Framework baseado em React que habilita funcionalidades como Server-Side Rendering (SSR), Static Site Generation (SSG) e roteamento, ideal para aplicações de produção.",
+    "ano": 2016,
+    "link": "https://nextjs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "full-stack",
+      "ssr",
+      "react"
+    ]
+  },
+  {
+    "nome": "Vue.js",
+    "descricao": "Framework progressivo para construção de interfaces de usuário, conhecido por sua facilidade de aprendizado e integração com outras bibliotecas.",
+    "ano": 2014,
+    "link": "https://vuejs.org/",
+    "tags": [
+      "framework",
+      "frontend",
+      "ui",
+      "web development"
+    ]
+  },
+  {
+    "nome": "GraphQL",
+    "descricao": "Linguagem de consulta para APIs desenvolvida pelo Facebook, que permite aos clientes solicitar exatamente os dados de que precisam.",
+    "ano": 2015,
+    "link": "https://graphql.org/",
+    "tags": [
+      "api",
+      "backend",
+      "protocolo",
+      "dados"
+    ]
+  },
+  {
+    "nome": "Redis",
+    "descricao": "Estrutura de dados em memória, de código aberto, usada como cache, banco de dados e message broker de alto desempenho.",
+    "ano": 2009,
+    "link": "https://redis.io/",
+    "tags": [
+      "banco de dados",
+      "cache",
+      "nosql",
+      "message broker"
+    ]
+  },
+  {
+    "nome": "Swift",
+    "descricao": "Linguagem de programação multiparadigma desenvolvida pela Apple para o desenvolvimento de aplicativos iOS, macOS e tvOS, focada em segurança e velocidade.",
+    "ano": 2014,
+    "link": "https://www.swift.org/",
+    "tags": [
+      "linguagem de programação",
+      "mobile",
+      "apple",
+      "sistemas"
+    ]
+  },
+  {
+    "nome": "Flutter",
+    "descricao": "Kit de ferramentas de UI do Google para construir aplicativos nativamente compilados para celular, web e desktop a partir de uma única base de código usando a linguagem Dart.",
+    "ano": 2017,
+    "link": "https://flutter.dev/",
+    "tags": [
+      "framework",
+      "mobile",
+      "frontend",
+      "dart",
+      "cross-platform"
+    ]
+  },
+  {
+    "nome": "Ansible",
+    "descricao": "Ferramenta de automação e gerenciamento de configuração de código aberto que simplifica tarefas complexas de TI, usando YAML e SSH.",
+    "ano": 2012,
+    "link": "https://www.ansible.com/",
+    "tags": [
+      "devops",
+      "automação",
+      "gerenciamento de configuração",
+      "ferramenta"
+    ]
+  },
+  {
+    "nome": "C# (C Sharp)",
+    "descricao": "Linguagem de programação orientada a objetos desenvolvida pela Microsoft, amplamente utilizada no ecossistema .NET para desenvolvimento web, desktop e jogos (Unity).",
+    "ano": 2000,
+    "link": "https://docs.microsoft.com/en-us/dotnet/csharp/",
+    "tags": [
+      "linguagem de programação",
+      "backend",
+      ".net",
+      "jogos",
+      "orientada a objetos"
+    ]
+  },
+  {
+    "nome": "Elasticsearch",
+    "descricao": "Mecanismo de busca e análise distribuído, RESTful, capaz de lidar com grandes volumes de dados em tempo real.",
+    "ano": 2010,
+    "link": "https://www.elastic.co/",
+    "tags": [
+      "banco de dados",
+      "busca",
+      "analytics",
+      "big data"
+    ]
+  },
+  {
+    "nome": "AWS Lambda",
+    "descricao": "Serviço de computação serverless da Amazon Web Services (AWS) que executa código em resposta a eventos sem provisionar ou gerenciar servidores.",
+    "ano": 2014,
+    "link": "https://aws.amazon.com/lambda/",
+    "tags": [
+      "serverless",
+      "cloud",
+      "aws",
+      "funções"
+    ]
+  },
+  {
+    "nome": "Cassandra (Apache Cassandra)",
+    "descricao": "Banco de dados NoSQL distribuído, altamente escalável e tolerante a falhas, projetado para lidar com grandes volumes de dados em commodity hardware.",
+    "ano": 2008,
+    "link": "https://cassandra.apache.org/",
+    "tags": [
+      "banco de dados",
+      "nosql",
+      "distribuído",
+      "big data"
+    ]
+  },
+  {
+    "nome": "RabbitMQ",
+    "descricao": "Message broker de código aberto, robusto e amplamente utilizado, que implementa o Advanced Message Queuing Protocol (AMQP).",
+    "ano": 2007,
+    "link": "https://www.rabbitmq.com/",
+    "tags": [
+      "message broker",
+      "messaging",
+      "backend",
+      "microsserviços"
+    ]
+  },
+  {
+    "nome": "Qwik",
+    "descricao": "Framework de front-end focado em performance, que alcança carregamento instantâneo através de uma técnica chamada 'resumability'.",
+    "ano": 2021,
+    "link": "https://qwik.builder.io/",
+    "tags": [
+      "framework",
+      "frontend",
+      "performance",
+      "web development"
+    ]
+  },
+  {
+    "nome": "Jest",
+    "descricao": "Framework de testes em JavaScript com foco em simplicidade, ideal para testar bibliotecas e frameworks como React e Vue.",
+    "ano": 2014,
+    "link": "https://jestjs.io/",
+    "tags": [
+      "testing",
+      "ferramenta",
+      "frontend",
+      "backend"
+    ]
+  },
+  {
+    "nome": "Nuxt.js",
+    "descricao": "Framework intuitivo baseado em Vue.js que simplifica o desenvolvimento de aplicações universais (SSR, SSG), oferecendo convenções para roteamento e gerenciamento de estado.",
+    "ano": 2016,
+    "link": "https://nuxt.com/",
+    "tags": [
+      "framework",
+      "frontend",
+      "vue",
+      "ssr",
+      "full-stack"
+    ]
+  }
 ]
